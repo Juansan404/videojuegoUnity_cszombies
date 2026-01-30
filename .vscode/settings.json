@@ -60,11 +60,11 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
-        "*.unity": "yaml",
+        "*.unity": "yaml"
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
-        "*.sln": "*.csproj",
+        "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "DV_2025-2026_JuanSA_AlbertoPO.sln"
+    "dotnet.defaultSolution": "videojuegoUnity_cszombies.sln"
 }
